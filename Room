@@ -1,0 +1,11 @@
+public class Room {
+  int numOfRooms;
+  String description;
+  int capacity;
+  int cost;
+  
+  public int getCost(){
+  
+  }
+  
+}
