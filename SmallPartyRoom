@@ -1,6 +1,7 @@
 public class smallPartyRoom{
   int numberOfRoomsAvailable;
-  public int getCost(){
-  
+  double cost;
+  public double getCost(){
+    return cost;
   }
 }
