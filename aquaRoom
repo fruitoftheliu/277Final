@@ -1,4 +1,4 @@
-public class aquaRoom{
+public class AquaRoom{
   String restrictions;
   
   public int getCost(){
