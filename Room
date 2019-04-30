@@ -5,7 +5,7 @@ interface Room {
   int cost;
   
   public int getCost(){
-  
+    return cost;
   }
   
 }
