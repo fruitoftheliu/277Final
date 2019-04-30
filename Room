@@ -1,5 +1,5 @@
 interface Room {
-  int numOfRooms;
+  
   String description;
   int capacity;
   int cost;
