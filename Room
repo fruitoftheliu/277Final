@@ -2,9 +2,9 @@ interface Room {
   
   String description;
   int capacity;
-  int cost;
+  double cost;
   
-  public int getCost(){
+  public double getCost(){
     return cost;
   }
   
