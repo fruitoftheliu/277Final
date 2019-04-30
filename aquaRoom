@@ -1,1 +1,8 @@
-
+public class aquaRoom{
+  String restrictions;
+  
+  public int getCost(){
+  
+  }
+  
+}
