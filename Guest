@@ -18,7 +18,7 @@ public class Guest extends BookingDetails{
     address = a;
   }
   public void setCCInfo(int c){
-    ccInfor = c;
+    ccInfo = c;
   }
   public String getName(){
     return name;
@@ -31,4 +31,7 @@ public class Guest extends BookingDetails{
   }
   public String getAddress(){
     return address;
-   
+  }
+  public int getCCInfo(){
+    return ccInfo;
+  }
