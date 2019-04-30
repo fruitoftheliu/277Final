@@ -1,1 +1,10 @@
-
+class RoomFactoryBase{
+  private RoomFactory(){
+  }
+  
+  public static Room buildRoom(RoomType type){
+  Room room = null;
+  }
+  
+  return room;
+}
