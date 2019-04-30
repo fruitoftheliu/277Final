@@ -1,6 +1,6 @@
 public class AdultBilliardsLounge{
-  int cost;
-  public int getCost(){
+  double cost;
+  public double getCost(){
     return cost;
   }
 }
