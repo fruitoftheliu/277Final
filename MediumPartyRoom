@@ -1,6 +1,8 @@
 public class mediumPartyRoom{
   int numberOfRoomsAvailable;
-  public int getCost(){
+  int cost;
   
+  public int getCost(){
+    return cost;
   }
 }
