@@ -1,4 +1,4 @@
-public class Room {
+interface Room {
   int numOfRooms;
   String description;
   int capacity;
