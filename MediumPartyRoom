@@ -1,4 +1,5 @@
 public class mediumPartyRoom{
+  int numberOfRoomsAvailable;
   public int getCost(){
   
   }
