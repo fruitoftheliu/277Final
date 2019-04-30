@@ -1,0 +1,34 @@
+public class BookingDetails{
+  int date;
+  int time;
+  MealPlan mealPlan;
+  String upgrades;
+  String specialInstructions;
+  
+  public void setDate(){
+  
+  }
+  public void setTime(){
+  
+  }
+  public void setMealPlan(){
+  
+  }
+  public void setUpgrades(){
+  
+  }
+  public void setSpecialInstructions(){
+  
+  }
+  public int getDate(){
+    return date;
+  }
+  public int getTime(){
+    return time;
+  }
+  public String getUpgrades(){
+    return upgrades;
+  }
+  public String getSpecialInstructions(){
+    return specialInstructions;
+  }
