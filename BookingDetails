@@ -5,20 +5,20 @@ public class BookingDetails{
   String upgrades;
   String specialInstructions;
   
-  public void setDate(){
-  
+  public void setDate(int d){
+    date = d;
   }
-  public void setTime(){
-  
+  public void setTime(int t){
+    time = t;
   }
-  public void setMealPlan(){
-  
+  public void setMealPlan(MealPlan m){
+    mealPlan = m;
   }
-  public void setUpgrades(){
-  
+  public void setUpgrades(String u){
+    upgrades = u;
   }
-  public void setSpecialInstructions(){
-  
+  public void setSpecialInstructions(String special){
+    specialInstructions = special;
   }
   public int getDate(){
     return date;
