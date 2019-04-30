@@ -1,0 +1,5 @@
+public class mediumPartyRoom{
+  public int getCost(){
+  
+  }
+}
