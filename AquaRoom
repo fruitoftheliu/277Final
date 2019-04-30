@@ -1,9 +1,9 @@
 public class AquaRoom{
   int numberOfRoomsAvailable;
   String restrictions;
-  int cost;
+  double cost;
   
-  public int getCost(){
+  public double getCost(){
     return cost;
   }
   
