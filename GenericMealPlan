@@ -1,0 +1,6 @@
+interface GenericMealPlan {
+  int numberOfLargePizzas;
+  int numberOfLiterSodas;
+  double cost;
+
+}
