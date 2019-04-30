@@ -1,4 +1,4 @@
-public class karaokeLounge{
+public class KaraokeLounge{
   public int getCost(){
   
   }
